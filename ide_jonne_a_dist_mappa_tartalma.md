@@ -1,0 +1,1 @@
+a dist mappa tartalma (fileok) ide jonne (ng build --prod command kes`itette volna el)
